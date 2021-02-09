@@ -1,0 +1,12 @@
+keras-vis==0.4.1
+tensorflow==1.15
+tensorflow-object-detection-api==0.1.1
+matplotlib==3.2.2
+numpy==1.19.5
+sklearn==0.0
+sklearn-pandas==1.8.0
+seaborn==0.11.1
+gdown==3.6.4
+six==1.15.0
+object-detection==0.0.3
+streamlit
