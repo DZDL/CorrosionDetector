@@ -9,4 +9,5 @@ seaborn==0.11.1
 gdown==3.6.4
 six==1.15.0
 object-detection==0.0.3
-streamlit
+streamlit==0.72.0
+opencv-contrib-python-headless==4.4.0.46
